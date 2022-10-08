@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Delmondes200019, i'm a backend developer
+- 👋 Hi, I’m @Delmondes200019, i'm a backend developer in this VUCA world. 
 
-
-<!---
-Delmondes200019/Delmondes200019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+VUCA is an acronym for volatility, uncertainty, complexity e ambiguity. What's VUCA - [VUCA By Siteware](https://www.siteware.com.br/gestao-estrategica/mundo-vuca-o-que-e/)
